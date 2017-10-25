@@ -1,0 +1,21 @@
+{
+    "name": "hykecorp/module-quickorder",
+    "description": "",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Vishwa",
+            "email": "https://github.com/vishvega"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "HykeCorp\\Quickorder\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
